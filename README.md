@@ -1,10 +1,10 @@
 # UAS Pemrograman Web 2
 
-- **Nama:** Alipiani Dwi Putri
-- **NIM:** 312410691
-- **Kelas:** I241B
-- **Semester:** Semester 4
-- **Mata Kuliah:** Pemrograman Web 2
+- **Nama          :** Alipiani Dwi Putri
+- **NIM           :** 312410691
+- **Kelas         :** I241B
+- **Semester      :** Semester 4
+- **Mata Kuliah   :** Pemrograman Web 2
 - **Dosen Pengampu:** Agung Nugroho S.Kom., M.Kom.
 
 ---
