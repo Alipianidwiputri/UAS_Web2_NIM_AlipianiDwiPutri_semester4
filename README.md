@@ -136,13 +136,13 @@ Password: admin123
 <img width="471" height="226" alt="image" src="https://github.com/user-attachments/assets/dfbd89a7-373e-4f24-b4a4-b167be98c918" />
 
 ### 3. Form Modal Tambah/Edit Data
-- #### Kategori 
+- #### Data Kategori 
 <img width="596" height="244" alt="image" src="https://github.com/user-attachments/assets/eb807fb9-ef15-4c31-a865-735f373a2497" />
 
-- #### Anggota
+- #### Data Anggota
 <img width="596" height="196" alt="image" src="https://github.com/user-attachments/assets/af8fbbda-389b-46c3-a57e-dc867e30ac7a" />
 
-- #### Peminjaman 
+- #### Data Peminjaman 
 <img width="599" height="226" alt="image" src="https://github.com/user-attachments/assets/1d294c09-2e8d-4c00-8dd3-96c72f0cc4e7" />
 
 
@@ -150,7 +150,7 @@ Password: admin123
 <img width="601" height="262" alt="image" src="https://github.com/user-attachments/assets/b7275a7f-589b-4c66-ada4-b91d4b35f877" />
 
 ### 5. Uji Coba API Tanpa Token (Error 401) - Postman
-![Error 401](screenshots/error-401.png)
+<img width="547" height="438" alt="image" src="https://github.com/user-attachments/assets/fb9cd4b7-ec52-499f-a98c-275fbe487a08" />
 
 ---
 
