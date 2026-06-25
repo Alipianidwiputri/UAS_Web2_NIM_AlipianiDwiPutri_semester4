@@ -5,11 +5,11 @@
 - **Kelas:** I241B
 - **Semester:** Semester 4
 - **Mata Kuliah:** Pemrograman Web 2
-- **Dosen Pengampu:** 
+- **Dosen Pengampu:** Agung Nugroho S.Kom., M.Kom.
 
 ---
 
-# 📚 E-Library System 
+# E-Library System 
 
 ## Deskripsi Proyek
 
@@ -19,15 +19,6 @@ Proyek ini dikembangkan sebagai pemenuhan Ujian Akhir Semester (UAS) mata kuliah
 
 ---
 
-
-- **Nama:** Alipiani Dwi Putri
-- **NIM:** 312410691
-- **Kelas:** I241B
-- **Semester:** Semester 4
-- **Mata Kuliah:** Pemrograman Web 2
-- **Dosen Pengampu:** 
-
----
 
 ## Teknologi yang Digunakan
 
@@ -54,10 +45,10 @@ UAS_Web2_NIM_AlipianiDwiPutri/
 
 ## Fitur Utama
 
-### 🌐 Public (Tanpa Login)
+### Public (Tanpa Login)
 - Melihat halaman Beranda dengan ringkasan total data (buku, kategori, peminjaman aktif)
 
-### 🔐 Administrator (Wajib Login)
+### Administrator (Wajib Login)
 - Login dengan autentikasi token
 - Dashboard ringkasan data
 - CRUD Data Buku
@@ -66,7 +57,7 @@ UAS_Web2_NIM_AlipianiDwiPutri/
 - CRUD Peminjaman
 - Logout (hapus sesi & token)
 
-### 🛡️ Keamanan
+### Keamanan
 - Token Bearer Authentication untuk endpoint POST, PUT, DELETE
 - CORS Filter dikonfigurasi di `Config/Filters.php`
 - Axios Request Interceptor (auto-inject token)
@@ -87,7 +78,7 @@ Terdapat 5 tabel yang saling berelasi:
 
 ### Screenshot Skema Relasi Database
 
-![Skema Database](screenshots/skema-database.png)
+<img width="627" height="110" alt="image" src="https://github.com/user-attachments/assets/23e0d974-5240-45ea-82f3-ad2f93e54f2f" />
 
 ---
 
@@ -137,16 +128,26 @@ Password: admin123
 ## Screenshot Aplikasi
 
 ### 1. Halaman Login
-![Login](screenshots/login.png)
+
+<img width="467" height="389" alt="image" src="https://github.com/user-attachments/assets/94d417b4-5ecc-45cc-bee5-976814816274" />
 
 ### 2. Dashboard Admin
-![Dashboard](screenshots/dashboard.png)
+
+<img width="471" height="226" alt="image" src="https://github.com/user-attachments/assets/dfbd89a7-373e-4f24-b4a4-b167be98c918" />
 
 ### 3. Form Modal Tambah/Edit Data
-![Modal Form](screenshots/modal-form.png)
+- #### Kategori 
+<img width="596" height="244" alt="image" src="https://github.com/user-attachments/assets/eb807fb9-ef15-4c31-a865-735f373a2497" />
+
+- #### Anggota
+<img width="596" height="196" alt="image" src="https://github.com/user-attachments/assets/af8fbbda-389b-46c3-a57e-dc867e30ac7a" />
+
+- #### Peminjaman 
+<img width="599" height="226" alt="image" src="https://github.com/user-attachments/assets/1d294c09-2e8d-4c00-8dd3-96c72f0cc4e7" />
+
 
 ### 4. Tabel Data (TailwindCSS)
-![Tabel Data](screenshots/tabel-data.png)
+<img width="601" height="262" alt="image" src="https://github.com/user-attachments/assets/b7275a7f-589b-4c66-ada4-b91d4b35f877" />
 
 ### 5. Uji Coba API Tanpa Token (Error 401) - Postman
 ![Error 401](screenshots/error-401.png)
@@ -156,7 +157,8 @@ Password: admin123
 ## Link Demo & Video Presentasi
 
 - **Link Demo:** [ISI LINK JIKA SUDAH DEPLOY, ATAU TULIS "Dijalankan secara lokal (localhost)"]
-- **Link Video Presentasi:** [ISI LINK YOUTUBE SETELAH UPLOAD]
+- **Link Video Presentasi:** https://youtu.be/qA-zoJIkbL8
+
 
 ---
 
