@@ -156,7 +156,7 @@ Password: admin123
 
 ## Link Demo & Video Presentasi
 
-- **Link Demo:** [ISI LINK JIKA SUDAH DEPLOY, ATAU TULIS "Dijalankan secara lokal (localhost)"]
+- **Link Demo:** https://drive.google.com/file/d/1bqmDA5Vwn7LXu-SH7elS-yfM0oEj9LVy/view?usp=sharing
 - **Link Video Presentasi:** https://youtu.be/qA-zoJIkbL8
 
 
